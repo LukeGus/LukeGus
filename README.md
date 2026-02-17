@@ -8,6 +8,7 @@ Please contact me at `mail@termix.site`
 If you enjoy any of my projects, donate [here](https://github.com/sponsors/LukeGus).
 
 # Sponsors
+
 <p align="left">
   <a href="https://www.digitalocean.com/">
     <img src="https://opensource.nyc3.cdn.digitaloceanspaces.com/attribution/assets/SVG/DO_Logo_horizontal_blue.svg" height="50" alt="DigitalOcean">
@@ -19,5 +20,9 @@ If you enjoy any of my projects, donate [here](https://github.com/sponsors/LukeG
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.blacksmith.sh/">
     <img src="https://cdn.prod.website-files.com/681bfb0c9a4601bc6e288ec4/683ca9e2c5186757092611b8_e8cb22127df4da0811c4120a523722d2_logo-backsmith-wordmark-light.svg" height="50" alt="Crowdin">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.cloudflare.com/">
+    <img src="https://sirv.sirv.com/website/screenshots/cloudflare/cloudflare-logo.png?w=300" height="50" alt="Crowdin">
   </a>
 </p>
