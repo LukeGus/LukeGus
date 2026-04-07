@@ -31,6 +31,6 @@ If you enjoy any of my projects, donate [here](https://github.com/sponsors/LukeG
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://akamai.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Akamai_logo.svg" height="75" alt="Akamai">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Akamai_logo.svg" height="50" alt="Akamai">
   </a>
 </p>
