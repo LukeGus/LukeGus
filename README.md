@@ -5,8 +5,6 @@ I'm currently working on [Termix](https://github.com/LukeGus/Termix), a web-base
 
 Please contact me at `mail@termix.site`
 
-If you enjoy any of my projects, donate [here](https://github.com/sponsors/LukeGus).
-
 # Sponsors
 
 <p align="left">
