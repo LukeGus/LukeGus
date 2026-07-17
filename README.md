@@ -16,6 +16,10 @@ Feel free to reach out at `mail@termix.site`
 
 <br />
 
+## Support
+
+My work is free and open source. Consider [donating](https://donate.termix.site/donate/) to support my time and development fees.
+
 ## Sponsors
 
 <div align="center">
