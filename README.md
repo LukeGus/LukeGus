@@ -6,15 +6,11 @@
 
 </div>
 
-<br />
-
 ## About
 
 I'm currently working on [Termix](https://github.com/LukeGus/Termix), a web-based server management platform with SSH and remote desktop capabiltiies
 
 Feel free to reach out at `mail@termix.site`
-
-<br />
 
 ## Support
 
