@@ -4,6 +4,10 @@
 
 <p>Full-stack web developer based in the United States</p>
 
+<p>
+  <a href="https://donate.termix.site/"><img alt="Donations this month" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Donations%20this%20month&query=%24.fiatTotal&prefix=%24&url=https%3A%2F%2Ftermix.site%2Fdonation-snapshot.json&color=F39044&labelColor=1a1a1a" /></a>
+</p>
+
 </div>
 
 ## About
@@ -17,6 +21,8 @@ Feel free to reach out at `mail@termix.site`
 My work is free and open source. Consider [donating](https://donate.termix.site/donate/) to support my time and development fees.
 
 ## Sponsors
+
+Interested in a paid placement to support development? Email [mail@termix.site](mailto:mail@termix.site).
 
 <div align="center">
 
