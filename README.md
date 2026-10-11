@@ -12,7 +12,7 @@
 
 ## About
 
-I'm currently working on [Termix](https://github.com/LukeGus/Termix), a web-based server management platform with SSH and remote desktop capabiltiies
+I'm currently working on [Termix](https://github.com/Termix-SSH/Termix), a self-hosted, plugin-based server management tool
 
 Feel free to reach out at `mail@termix.site`
 
