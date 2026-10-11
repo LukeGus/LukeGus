@@ -12,9 +12,9 @@
 
 ## About
 
-I'm currently working on [Termix](https://github.com/Termix-SSH/Termix), a self-hosted, plugin-based server management tool
+I'm currently working on [Termix](https://github.com/Termix-SSH/Termix), a self-hosted, plugin-based server management tool.
 
-Feel free to reach out at `mail@termix.site`
+Feel free to reach out at `mail@termix.site`.
 
 ## Support
 
