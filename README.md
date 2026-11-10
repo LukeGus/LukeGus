@@ -57,6 +57,10 @@ Interested in a paid placement to support development? Email [mail@termix.site](
 <a href="https://www.hetzner.com/?mtm_campaign=termix&mtm_medium=referral&mtm_content=sponsoring_link">
   <img src="https://termix.site/img/sponsors/hetzner.png" height="40" alt="Hetzner" />
 </a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://emberswan.com/">
+  <img src="https://termix.site/img/sponsors/emberswan.png" height="40" alt="Ember Swan" />
+</a>
 
 </div>
 
